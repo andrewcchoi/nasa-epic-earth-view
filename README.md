@@ -8,17 +8,18 @@ EPIC_Earth_View_Movie: create an MP4 video of the images
 
 NASA API
 Earth Polychromatic Imaging Camera (EPIC)
+
 url: https://api.nasa.gov/planetary/apod?api_key=
 
 limit = 90 connections
 Image locations
-Site Name	                Archive	Collection	Year	Month	Day	Image Type	File Name
-https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	png	        epic_1b_20161031xxxx.png
-https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	jpg	        epic_1b_20161031xxxx.jpg
-https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	thumbs	    epic_1b_20161031xxxx.jpg
-https://epic.gsfc.nasa.gov	archive	enhanced	  2016	10	    31	png	        epic_RGB_20161031xxxx.png
-https://epic.gsfc.nasa.gov	archive	enhanced	  2016	10	    31	jpg	        epic_RGB_20161031xxxx.jpg
-https://epic.gsfc.nasa.gov	archive	enhanced	  2016	10	    31	thumbs	    epic_RGB_20161031xxxx.jpg
+Site Name	                 Archive	Collection	 Year	Month	 Day	Image Type	 File Name
+https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	 png	        epic_1b_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	 jpg	        epic_1b_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	natural	    2016	10	    31	 thumbs	     epic_1b_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	enhanced	   2016	10	    31	 png	        epic_RGB_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	enhanced	   2016	10	    31	 jpg	        epic_RGB_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	enhanced	   2016	10	    31	 thumbs	     epic_RGB_20161031xxxx.jpg
 
 
 Examples:
