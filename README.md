@@ -8,7 +8,6 @@ EPIC_Earth_View_Movie: create an MP4 video of the images
 
 NASA API
 Earth Polychromatic Imaging Camera (EPIC)
-
 url: https://api.nasa.gov/planetary/apod?api_key=
 
 limit = 90 connections
