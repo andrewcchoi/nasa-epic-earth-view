@@ -105,3 +105,9 @@ driver.get(src)
 driver.save_screenshot('screen.png')
 
 https://epic.gsfc.nasa.gov/api/images.php?available_dates
+
+
+Addtional Resources:
+https://rapidapi.com/blog/how-to-use-an-api-with-python/
+https://docs.python.org/3/library/multiprocessing.html
+https://pymotw.com/2/multiprocessing/basics.html
